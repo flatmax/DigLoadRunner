@@ -1,6 +1,6 @@
 # Dig Load Runner : Effector Generator
 
-A VCV plugin.
+A VCV Rack plugin. [Check the demo video here](https://youtu.be/_DfvGWEriE8)
 
 ![Dig Load Runner v2.0.0](DigLoadRunner.v2.0.0.png)
 
